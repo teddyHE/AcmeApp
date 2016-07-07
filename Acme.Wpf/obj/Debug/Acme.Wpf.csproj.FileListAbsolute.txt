@@ -1,1 +1,24 @@
 C:\Users\InspectDev\Documents\Visual Studio 2013\Pluralsight\CSharp course\Intermidiate\C# Best Practices Collections\Examples\2-csharp-best-practices-collections-generics-m2-exercise-files\AcmeApp\Acme.Wpf\bin\Debug\Acme.Wpf.exe.config
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\bin\Debug\Acme.Wpf.exe.config
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\bin\Debug\Acme.Wpf.exe
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\bin\Debug\Acme.Wpf.pdb
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\bin\Debug\Acme.Biz.dll
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\bin\Debug\Acme.Common.dll
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\bin\Debug\Acme.Biz.pdb
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\bin\Debug\Acme.Common.pdb
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\obj\Debug\Acme.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\obj\Debug\Assets\StyleLibrary.baml
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\obj\Debug\MainWindow.baml
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\obj\Debug\Views\VendorDetailView.g.cs
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\obj\Debug\App.g.cs
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\obj\Debug\Acme.Wpf_MarkupCompile.cache
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\obj\Debug\Acme.Wpf_MarkupCompile.lref
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\obj\Debug\App.baml
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\obj\Debug\Views\VendorDetailView.baml
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\obj\Debug\Acme.Wpf.g.resources
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\obj\Debug\Acme.Wpf.Properties.Resources.resources
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\obj\Debug\Acme.Wpf.csproj.GenerateResource.Cache
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\obj\Debug\Acme.Wpf.exe
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Wpf\obj\Debug\Acme.Wpf.pdb

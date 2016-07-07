@@ -1,0 +1,5 @@
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Common\bin\Debug\Acme.Common.dll
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Common\bin\Debug\Acme.Common.pdb
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Common\obj\Debug\Acme.Common.csprojResolveAssemblyReference.cache
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Common\obj\Debug\Acme.Common.dll
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Common\obj\Debug\Acme.Common.pdb

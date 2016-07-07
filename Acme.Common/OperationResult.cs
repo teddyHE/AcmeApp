@@ -20,4 +20,19 @@
         public string Message { get; set; }
     }
 
+    public class OperationResultDecimal
+    {
+        public OperationResultDecimal()
+        {
+        }
+
+        public OperationResultDecimal(decimal success, string message) : this()
+        {
+            this.Success = success;
+            this.Message = message;
+        }
+
+        public decimal Success { get; set; }
+        public string Message { get; set; }
+    }
 }

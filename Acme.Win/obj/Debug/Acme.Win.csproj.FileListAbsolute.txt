@@ -1,0 +1,13 @@
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Win\bin\Debug\Acme.Win.exe.config
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Win\bin\Debug\Acme.Win.exe
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Win\bin\Debug\Acme.Win.pdb
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Win\bin\Debug\Acme.Biz.dll
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Win\bin\Debug\Acme.Common.dll
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Win\bin\Debug\Acme.Biz.pdb
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Win\bin\Debug\Acme.Common.pdb
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Win\obj\Debug\Acme.Win.csprojResolveAssemblyReference.cache
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Win\obj\Debug\Acme.Win.Properties.Resources.resources
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Win\obj\Debug\Acme.Win.VendorWin.resources
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Win\obj\Debug\Acme.Win.csproj.GenerateResource.Cache
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Win\obj\Debug\Acme.Win.exe
+C:\Users\InspectDev\Documents\Pluralsight\C#\Intermediate\C# best practices collections and generics\AcmeApp\Acme.Win\obj\Debug\Acme.Win.pdb
