@@ -1,0 +1,1 @@
+C:\Users\InspectDev\Documents\Visual Studio 2013\Pluralsight\CSharp course\Intermidiate\C# Best Practices Collections\Examples\2-csharp-best-practices-collections-generics-m2-exercise-files\AcmeApp\Acme.Wpf\bin\Debug\Acme.Wpf.exe.config
